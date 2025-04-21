@@ -1,2 +1,1 @@
-# A_Quantum_Transformer_for_Natural_Language_Processing
-A Quantum Transformer for Natural Language Processing
+# Quantum Transformers for Natural Language Processing
