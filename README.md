@@ -15,4 +15,4 @@ Replaces classical linear layers with **qubit‐rotation networks**—only singl
 
 ##
 
-For detailed explanations, please refer to the code block descriptions in the attached Jupyter Notebooks or see [my blog post](https://medium.com/@arunsehrawat2/quantum-transformers-for-natural-language-processing-3045eb2b2b34) on this work.
+For a detailed explanation, please refer to the code block descriptions in the attached Jupyter Notebooks or see [my blog post](https://medium.com/@arunsehrawat2/quantum-transformers-for-natural-language-processing-3045eb2b2b34) on this work.
