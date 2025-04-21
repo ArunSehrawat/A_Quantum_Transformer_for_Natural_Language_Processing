@@ -13,6 +13,6 @@ Replaces classical linear layers with **qubit‐rotation networks**—only singl
 
 <img width="1294" alt="QT Model" src="https://github.com/user-attachments/assets/7f8d4354-a0ad-463b-a72a-28e2ea89c0f4" />
 
-$ $
+##
 
 For detailed explanations, please refer to the code block descriptions in the attached Jupyter Notebooks or see [my blog post](https://medium.com/@arunsehrawat2/quantum-transformers-for-natural-language-processing-3045eb2b2b34) on this work.
